@@ -1,29 +1,29 @@
 # Swiggy-Sales-Dashboard-Excel-Data-Analysis
 
-**Overview**
+**OVERVIEW**
 
 This project focuses on analyzing Swiggy food delivery data using Microsoft Excel to build an interactive dashboard and extract meaningful business insights.
 
-**Objectives**
+**OBJECTIVES**
 
 1. Analyze sales performance and customer trends.
 2. Track key performance indicators (KPIs).
 3. Build an interactive dashboard for business insights.
  
-**Dataset**
+**DATASET**
 
 Food delivery dataset containing order details, ratings, categories, and locations.
 
-**Total records analyzed: 197K+**
+**TOTAL RECORDS ANALYZED: 197K+**
 
-**Tools & Technologies Used**
+**TOOLS & TECHNOLOGIES USED**
 
 1. Microsoft Excel
 2. Pivot Tables & Pivot Charts
 3. Slicers & Dashboard Design
 4. Data Cleaning & Transformation
  
-**Key Features**
+**KEY FEATURES**
 
 **KPI Metrics:** Total Orders, Average Rating, Average Order Value
 
@@ -37,14 +37,14 @@ Top cities analysis
 
 Interactive filters (Slicers)
 
-**Key Insights**
+**KEY INSIGHTS**
 
 1. Identified peak sales periods and high-demand days.
 2. Highlighted top-performing cities contributing to revenue.
 3. Observed customer preferences across food categories.
 4. Discovered regional variations in sales performance.
 
-**Project Outcome**
+**PROJECT OUTCOME**
 
 This project demonstrates strong skills in:
 1. Data Analysis
