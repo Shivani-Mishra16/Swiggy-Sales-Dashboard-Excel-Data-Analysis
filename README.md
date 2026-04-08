@@ -25,17 +25,17 @@ Food delivery dataset containing order details, ratings, categories, and locatio
  
 **KEY FEATURES**
 
-**KPI Metrics:** Total Orders, Average Rating, Average Order Value
+1. **KPI Metrics:** Total Orders, Average Rating, Average Order Value
 
-**Sales Trends:** Daily, Weekly, Monthly analysis
+2. **Sales Trends:** Daily, Weekly, Monthly analysis
 
-**Category Analysis:** Veg vs Non-Veg sales distribution
+3. **Category Analysis:** Veg vs Non-Veg sales distribution
 
-**Geographic Insights:** State-wise performance
+4. **Geographic Insights:** State-wise performance
 
-Top cities analysis
+5. **Top cities analysis**
 
-Interactive filters (Slicers)
+6. **Interactive filters (Slicers)**
 
 **KEY INSIGHTS**
 
